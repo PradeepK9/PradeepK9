@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PradeepK9 (Pradeep Jaiswal)
 - 👀 I’m interested in coding, software development
-- 🌱 I’m currently learning React, OCC, J2EE
+- 🌱 I’m currently learning React, java, J2EE
 - 📫 How to reach me https://www.linkedin.com/in/pradeepjaiswal234/
 
 
