@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PradeepK9 (Pradeep Jaiswal)
-- 👀 I’m interested in coding, software development
-- 🌱 I’m currently learning React, java, J2EE
+- 👋 Hi, I’m Pradeep Jaiswal
+- 👀 I’m interested in MERN Full Stack development
+- 🌱 I know JavaSript, Java, Python, React and always ready to learn new technologies.
 - 📫 How to reach me https://www.linkedin.com/in/pradeepjaiswal234/
 
 
