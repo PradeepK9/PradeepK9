@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pradeep Jaiswal
 - 👀 I’m interested in MERN Full Stack development
-- 🌱 I know JavaSript, Java, Python, React and always ready to learn new technologies.
+- 🌱 I know JavaSript, Java, NodeJS, Python, React and always ready to learn new technologies.
 - 📫 How to reach me https://www.linkedin.com/in/pradeepjaiswal234/
 
 
