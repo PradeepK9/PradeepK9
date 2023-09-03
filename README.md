@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pradeep Jaiswal
-- 👀 I’m interested in Web development and my expertise are React and nodejs.
-- 🌱 I know JavaSript, Java, NodeJS, Python, React and always ready to learn new technologies.
+- 👀 Experienced Web developer expertised in React and nodejs.
+- 🌱 Talks about JavaSript, Java, NodeJS, Python, React and always ready to learn new technologies.
 - 📫 How to reach me https://www.linkedin.com/in/pradeepjaiswal234/
 
 
